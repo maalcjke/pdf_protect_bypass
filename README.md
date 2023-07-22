@@ -3,6 +3,7 @@
 
 # Как использовать?
 - Откройте страницу с необходимым содержимым
+- Отключите режим книги (чтобы появлися скролл)
 - Нажмите клавишу F12 и перейдите в раздел "Консоль"
 - Вставьте содержимое файла "bypass.js" в консоль
 - Нажмите Enter
@@ -12,6 +13,7 @@
 Bypassing the ban on downloading a PDF file by the libraries «pdf.js» and «viewer.js»
 # How to use?
 - Open the page with the required content
+- Turn off the book mode (so that the scroll appears)
 - Press the F12 key and go to the "Console" section
 - Paste the contents of the "bypass.js" file into the console
 - Press Enter
