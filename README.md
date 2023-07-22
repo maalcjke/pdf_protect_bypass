@@ -6,6 +6,7 @@
 - Нажмите клавишу F12 и перейдите в раздел "Консоль"
 - Вставьте содержимое файла "bypass.js" в консоль
 - Нажмите Enter
+- Результат - изображения всех страниц в архиве
 
 # Pdf protect bypass
 Bypassing the ban on downloading a PDF file by the libraries «pdf.js» and «viewer.js»
@@ -14,3 +15,4 @@ Bypassing the ban on downloading a PDF file by the libraries «pdf.js» and «vi
 - Press the F12 key and go to the "Console" section
 - Paste the contents of the "bypass.js" file into the console
 - Press Enter
+- Result - images of all pages in the archive
